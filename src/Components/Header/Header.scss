@@ -1,0 +1,26 @@
+.header {
+  margin-top: 10px;
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__list {
+  display: flex;
+  gap: 33px;
+  list-style: none;
+}
+
+.nav__link {
+  text-decoration: none;
+  font-family: 'Barlow';
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  font-style: normal;
+  color: #83888F;
+  text-transform: uppercase;
+}

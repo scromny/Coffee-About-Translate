@@ -1,0 +1,35 @@
+.lorem__info {
+    background-color: #2C343E;
+    display: flex;
+    margin-top: 256px;
+    border-radius: 8px;
+}
+
+.lorem__h3 {
+    color: #FEFCF7;
+    font-family: 'fraunces';
+    font-weight: 900px;
+    font-size: 40px;
+    letter-spacing: 0px;
+    padding-top: 88px;
+    padding-left: 85px;
+    margin-bottom: 32px;
+}
+
+.lorem__text {
+    color: #FEFCF7;
+    font-family: 'Barlow';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0px;
+    width: 540px;
+    padding-left: 85px;
+    margin-bottom: 176px;
+}
+
+.lorem__img {
+    margin-left: 750px;
+    margin-right: 85px;
+    margin-top: -88px;
+    position: absolute;
+}
